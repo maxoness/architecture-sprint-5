@@ -8,4 +8,6 @@
 
 [Новое состояние с CPU=4](terraform/terraform.tfstate)
 
+![Новое состояние с CPU=4 в консоли управления Yandex Cloud](terraform/final_vm.jpg)
+
 [Старое состояние с CPU=2](terraform/terraform.tfstate.backup)
