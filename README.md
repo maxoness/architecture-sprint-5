@@ -5,5 +5,7 @@
 [Задание 2. Логи тестового взаимодействия](rasa/rasa_out.log)
 ## Доп задание. Развернуть веб-ассистента и настроить RASA
 [Доп задание. terraform config](terraform/main.tf)
+
 [Новое состояние с CPU=4](terraform/terraform.tfstate)
+
 [Старое состояние с CPU=2](terraform/terraform.tfstate.backup)
