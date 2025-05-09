@@ -1,3 +1,4 @@
 [submodule "assistant"]
 	path = assistant
 	url = https://github.com/Yandex-Practicum/architecture-virtual_assistant.git
+	ignore = all
