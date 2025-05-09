@@ -21,9 +21,9 @@ resource "yandex_compute_disk" "boot-disk-1" {
 
 resource "yandex_compute_instance" "vm-1" {
   name = "terraform1"
-
+  allow_stopping_for_update = true
   resources {
-    cores  = 2
+    cores  = 4
     memory = 8
   }
 
